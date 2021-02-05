@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206756341540",
+    "project_id": "bloodangelapp",
+    "storage_bucket": "bloodangelapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206756341540:android:fabf73368d223b6e97b5b1",
+        "android_client_info": {
+          "package_name": "com.blood_angel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206756341540-hbu6tqnn3t96f82vdger1ac7bf1aqqv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeqKWr2b56encnVO1KeMrAKm8ee-967wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206756341540-hbu6tqnn3t96f82vdger1ac7bf1aqqv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
